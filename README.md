@@ -60,6 +60,11 @@ and then run rather:
 ### problem with nodejs
 
 ```
+sudo apt remove nodejs
+sudo apt autoremove
+```
+
+```
 cd ~
 ```
 ```
