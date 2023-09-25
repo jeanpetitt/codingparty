@@ -12,13 +12,17 @@
     cd food_log
   ```
   open this folder with your preference editor and you will this configuration
-  <img src="./guide/expo3.png" style="{height: 50px; }">
+  <img src="./guide/expo3.png" style="{height: 50px; }"><br>
 
   at the end execute this command to launch your Hello world
 
   ```
    yarn start or npm start
   ```
+  <img src="./guide/expo2.png">
+
+  open your expo Go application and scan Qrcode below and you see this result:<br>
+  <img src="./guide/expo5.png">
 
 2. Build APK of your hello world app
    
